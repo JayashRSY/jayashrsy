@@ -1,10 +1,10 @@
 <div align="center">
-<h2> Hi there, It's Jayash <img src="https://github.com//blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hi there, It's Jayash <img src="https://github.com/jayashrsy/jayashrsy/gifs/Hi.gif" width="30px"></h2>
 </div>
 
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+<img src="https://i.imgur.com/dTYwdG1gif" alt="Welcome!" width="300"/>
 
 </div>
 
@@ -27,7 +27,7 @@ Say Hi ! <br><a href="mailto:jayashrsy@gmail.com"><b>email</b></a> me.
 
 </br>
 <i>Random Thoughts:)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api? alt="README Jokes"></a>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?&text_color=7A7ADB&icon_color=7A7ADB&bg_color=0,000000,130F40&alt="README Jokes"></a>
 
 ---
 [![HitCount](http://hits.dwyl.com/jayashrsy/jayashrsy.svg)](http://hits.dwyl.com/jayashrsy/jayashrsy)
