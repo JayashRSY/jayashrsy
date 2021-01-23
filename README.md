@@ -27,7 +27,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 </br>
 <i>Random Thoughts:)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?&text_color=7A7ADB&icon_color=7A7ADB&bg_color=0,000000,130F40&alt="README Jokes"></a>
+<img align="center" src="https://readme-jokes.vercel.app/api?&text_color=7A7ADB&icon_color=7A7ADB&bg_color=0,000000,130F40&alt="README Jokes">
 
 ---
 [![HitCount](http://hits.dwyl.com/jayashrsy/jayashrsy.svg)](http://hits.dwyl.com/jayashrsy/jayashrsy)
