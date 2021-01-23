@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hi there, It's Jayash <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hi there, It's Jayash <img src="https://github.com//blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
 <div align="center" width="50">
@@ -23,7 +23,7 @@ Say Hi ! <br><a href="mailto:jayashrsy@gmail.com"><b>email</b></a> me.
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JayashRSY&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="JayashRSY's Github Stats">
 </br>
 </br>
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayashRSY&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=7A7ADB&icon_color=7A7ADB&bg_color=0,000000,130F40&theme=radical" /></a>
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayashRSY&hide=html&hide_title=true&line_height=20&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=7A7ADB&icon_color=7A7ADB&bg_color=0,000000,130F40&theme=radical" /></a>
 
 </br>
 <i>Random Thought:)</i><br>
