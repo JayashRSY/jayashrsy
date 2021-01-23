@@ -27,7 +27,7 @@ Say Hi ! <br><a href="mailto:jayashrsy@gmail.com"><b>email</b></a> me.
 
 </br>
 <i>Random Thoughts:)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=0,000000,130F40&textColor=7A7ADB&aColor=7A7ADB&borderColor=7A7ADB" alt="README Jokes"></a>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api? alt="README Jokes"></a>
 
 ---
 [![HitCount](http://hits.dwyl.com/jayashrsy/jayashrsy.svg)](http://hits.dwyl.com/jayashrsy/jayashrsy)
