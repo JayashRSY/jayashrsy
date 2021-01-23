@@ -1,7 +1,6 @@
 <div align="center">
 <h2> Hi there, It's Jayash <img src="https://github.com/jayashrsy/jayashrsy/gifs/Hi.gif" width="30px"></h2>
 </div>
-
 <div align="center" width="50">
 
 <img src="https://github.com/jayashrsy/jayashrsy/gifs/fire.gif" alt="Welcome!" width="300"/>
