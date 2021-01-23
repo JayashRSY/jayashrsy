@@ -12,7 +12,7 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Say Hi ! <br><a href="mailto:jayashrsy@gmail.com"><b>email</b></a> me.
+<a href="mailto:jayashrsy@gmail.com"><b>Say Hi!</b></a>
 
 <i>Happy Coding!</i> 😊
 
