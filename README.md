@@ -3,27 +3,60 @@
 <h2>I am </h2>
 </div>
 <div align="center" width="50">
-
 <img src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/fire.gif" alt="Jayash"/>
+    
+</div>
+    
+<div align="center">
+    
+You have finally discovered my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 
 </div>
 
 <div align="center">
+<br>
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-<a href="mailto:jayashrsy@gmail.com"><b>Say Hi!</b></a>
-</br>
-</br>
-<i>Follow me around the web:</i><br>
+<img alt="GIF" src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/wave.gif" width="20vw" /> I’m currently **Sleeping** 😴 or **Working** on my **Laptop** 👨‍💻
+<br><img alt="GIF" src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/gandalf_parrot.gif" width="20vw" /> I’m currently **learning** some **Random Stuff**💪.
+<br><img alt="GIF" src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/headbang.gif" width="20vw" /> I’m looking to collaborate on **Web-D projects**🚧
+<br><img alt="GIF" src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/hmm.gif" width="20vw" /> I’m currently exploring **Python**
+<br><img alt="GIF" src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
+<br><img alt="GIF" src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/happy.gif" width="20vw" /> Ask me about why do I think **Life is Meaningless** 👽
+<br><img alt="GIF" src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/coin.gif" width="20vw" /> Fun fact: But you have to keep **Living It** 🏆
 
+<br>
+<a href="mailto:jayashrsy@gmail.com">Say Hi!</a>    
+<br><br>
+    
+***Languages and Tools*** 
+<br>
+<img src="https://img.icons8.com/nolan/64/c-plus-plus.png"/>
+<img src="https://img.icons8.com/nolan/64/python.png"/>
+<img src="https://img.icons8.com/nolan/64/sql.png"/>
+<img src="https://img.icons8.com/nolan/64/html.png"/>
+<img src="https://img.icons8.com/nolan/64/javascript.png"/>
+<img src="https://img.icons8.com/nolan/64/github.png"/>
+<img src="https://img.icons8.com/nolan/64/adobe-photoshop.png"/>    
+<img src="https://img.icons8.com/nolan/64/adobe-premiere-pro.png"/>
+<img src="https://img.icons8.com/nolan/64/adobe-after-effects.png"/>    
+       
+<br>
+    
+
+***Follow me around the web:***
+
+
+    
 <a href="http://www.Jayash.ml" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90-Website-lightgrey?&style=flat-square&logo=globe&logoColor=white" alt="Website"></a>
 <a href="https://www.linkedin.com/in/JayashRSY" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/JayashRSY" target="_blank"><img src="https://img.shields.io/badge/-Instagram-red?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://discord.gg/y4WC5hB7jQ" target="_blank"><img src="https://img.shields.io/badge/-Discord-blueviolet?&style=flat-square&logo=Discord&logoColor=white" alt="Discord"></a>
-</br></br>
-<i>Happy Coding!</i> 😊
----
+
+
+<br>
+<br>
+
 </div>
 
 <div align="center">
