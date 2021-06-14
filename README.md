@@ -25,8 +25,6 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <br><img alt="GIF" src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/happy.gif" width="20vw" /> Ask me about why do I think **Life is Meaningless** 👽
 <br><img alt="GIF" src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/coin.gif" width="20vw" /> Fun fact: But you have to keep **Living It** 🏆
 
-<br>
-<a href="mailto:jayashrsy@gmail.com">Say Hi!</a>    
 <br><br>
     
 ***Languages and Tools*** 
