@@ -61,9 +61,9 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 </br>
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayashRSY&hide=html&hide_title=true&line_height=20&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=7A7ADB&icon_color=7A7ADB&bg_color=0,000000,130F40&theme=radical" /></a>
 
-</br>
-</br>
-<i>Random Thoughts:)</i><br>
+<br>
+<br>
+***Random Thoughts:)***<br>
 <img align="center" src="https://readme-jokes.vercel.app/api?&theme=tokyonight&alt="README Jokes">
 
 ---
