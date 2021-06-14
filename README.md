@@ -37,6 +37,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <img src="https://img.icons8.com/nolan/64/html.png"/>
 <img src="https://img.icons8.com/nolan/64/javascript.png"/>
 <img src="https://img.icons8.com/nolan/64/github.png"/>
+<img src="https://img.icons8.com/nolan/64/web-design.png"/>
 <img src="https://img.icons8.com/nolan/64/adobe-photoshop.png"/>    
 <img src="https://img.icons8.com/nolan/64/adobe-premiere-pro.png"/>
 <img src="https://img.icons8.com/nolan/64/adobe-after-effects.png"/>    
@@ -52,8 +53,9 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <a href="https://www.linkedin.com/in/JayashRSY" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/JayashRSY" target="_blank"><img src="https://img.shields.io/badge/-Instagram-red?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://discord.gg/y4WC5hB7jQ" target="_blank"><img src="https://img.shields.io/badge/-Discord-blueviolet?&style=flat-square&logo=Discord&logoColor=white" alt="Discord"></a>
-
-
+<a href="https://www.behance.net/johnrakon" target="_blank"><img src="https://img.shields.io/badge/-Behance-blueviolet?&style=flat-square&logo=Behance&logoColor=white" alt="Discord"></a>
+<a href="https://www.fiverr.com/johnrakon" target="_blank"><img src="https://img.shields.io/badge/-Fiverr-blueviolet?&style=flat-square&logo=Fiverr&logoColor=white" alt="Discord"></a>
+    
 <br>
 <br>
 
