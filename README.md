@@ -57,7 +57,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <div align="center">
 My Stats
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=JayashRSY&theme=midnight-purple" height="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=JayashRSY&theme=midnight-purple" height="49%">
 <img src="https://github-readme-stats.vercel.app/api?username=JayashRSY&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="JayashRSY's Github Stats">
 <br>
 <br>
