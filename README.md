@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hi there, <img src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/Hi.gif" width="30px"></h2>
+<h2> Hi there, <img src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/Hi.gif" width="10px"></h2>
 <h2>I am </h2>
 </div>
 <div align="center" width="50">
@@ -17,14 +17,24 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <div align="center">
 <br>
 
-<img alt="GIF" src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/wave.gif" width="20vw" /> I’m currently **Sleeping** 😴 or **Working** on my **Laptop** 👨‍💻
+ I’m currently **Sleeping** 😴 or **Working** on my **Laptop** 👨‍💻
+<br> I’m currently **learning** some **Random Stuff**💪.
+<br> I’m looking to collaborate on **Web-D projects**🚧
+<br> I’m currently exploring **Python**
+<br> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
+<br> Ask me about why do I think **Life is Meaningless** 👽
+<br> Fun fact: But you have to keep **Living It** 🏆
+
+    
+<!-- <img alt="GIF" src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/wave.gif" width="20vw" /> I’m currently **Sleeping** 😴 or **Working** on my **Laptop** 👨‍💻
 <br><img alt="GIF" src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/gandalf_parrot.gif" width="20vw" /> I’m currently **learning** some **Random Stuff**💪.
 <br><img alt="GIF" src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/headbang.gif" width="20vw" /> I’m looking to collaborate on **Web-D projects**🚧
 <br><img alt="GIF" src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/hmm.gif" width="20vw" /> I’m currently exploring **Python**
 <br><img alt="GIF" src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
 <br><img alt="GIF" src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/happy.gif" width="20vw" /> Ask me about why do I think **Life is Meaningless** 👽
-<br><img alt="GIF" src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/coin.gif" width="20vw" /> Fun fact: But you have to keep **Living It** 🏆
-
+<br><img alt="GIF" src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/coin.gif" width="20vw" /> Fun fact: But you have to keep **Living It** 🏆 -->
+    
+    
 <br>
     
 ***Languages and Tools*** 
