@@ -55,7 +55,9 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <a href="https://jayashrsy.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8C%90-Portfolio-lightgrey?&style=flat-square&logo=globe&logoColor=white" alt="Website"></a>
 <a href="https://www.linkedin.com/in/JayashRSY" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/JayashRSY" target="_blank"><img src="https://img.shields.io/badge/-Instagram-red?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://discord.gg/y4WC5hB7jQ" target="_blank"><img src="https://img.shields.io/badge/-Discord-blueviolet?&style=flat-square&logo=Discord&logoColor=white" alt="Discord"></a>
+<a href="https://twitter.com/jayashrsy" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://discordapp.com/users/487901373736681476" target="_blank"><img src="https://img.shields.io/badge/-Discord-blueviolet?&style=flat-square&logo=Discord&logoColor=white" alt="Discord"></a>
+<a href="https://www.reddit.com/user/JohnRakon" target="_blank"><img src="https://img.shields.io/badge/-Reddit-orange?&style=flat-square&logo=Reddit&logoColor=white" alt="Reddit"></a>
 <a href="https://www.behance.net/johnrakon" target="_blank"><img src="https://img.shields.io/badge/-Behance-9cf?&style=flat-square&logo=Behance&logoColor=white" alt="Behance"></a>
 <a href="https://open.spotify.com/user/h2loukykgejif077u3py70qub" target="_blank"><img src="https://img.shields.io/badge/-Spotify-success?&style=flat-square&logo=Spotify&logoColor=white" alt="Spotify"></a>
     
