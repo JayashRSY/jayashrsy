@@ -78,7 +78,7 @@ My Stats
 <br>
 <br>
 ***Random Thoughts:)***<br>
-<img align="center" src="https://readme-jokes.vercel-sigma-five.app/api?&theme=tokyonight&alt="README Jokes">
+<img align="center" src="https://readme-jokes.vercel.app/api?&theme=tokyonight&alt="README Jokes">
 
 ---
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JayashRSY.JayashRSY)
