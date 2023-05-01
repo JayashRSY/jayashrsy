@@ -39,11 +39,9 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
     
 ***Languages and Tools*** 
 <br>
-<img src="https://img.icons8.com/nolan/64/c-plus-plus.png"/>
-<img src="https://img.icons8.com/nolan/64/python.png"/>
-<img src="https://img.icons8.com/nolan/64/sql.png"/>
 <img src="https://img.icons8.com/nolan/64/html.png"/>
 <img src="https://img.icons8.com/nolan/64/javascript.png"/>
+<img src="https://img.icons8.com/nolan/64/angularjs.png"/>
 <img src="https://img.icons8.com/nolan/64/github.png"/>
 <img src="https://img.icons8.com/nolan/64/web-design.png"/>
 <img src="https://img.icons8.com/nolan/64/adobe-photoshop.png"/>    
