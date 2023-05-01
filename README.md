@@ -40,6 +40,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 ***Languages and Tools*** 
 <br>
 <img src="https://img.icons8.com/nolan/64/html.png"/>
+<img src="https://img.icons8.com/?size=64&id=59898&format=png"/>
 <img src="https://img.icons8.com/nolan/64/javascript.png"/>
 <img src="https://img.icons8.com/nolan/64/angularjs.png"/>
 <img src="https://img.icons8.com/nolan/64/github.png"/>
