@@ -75,6 +75,19 @@ My Stats
 <img height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JayashRSY&hide=html&hide_title=true&line_height=20&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=7A7ADB&icon_color=7A7ADB&bg_color=0,000000,130F40&theme=radical" /></a>
 
 <br>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JayashRSY&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JayashRSY&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 <br>
 ***Random Thoughts:)***<br>
 <img align="center" src="https://readme-jokes.vercel.app/api?&theme=tokyonight&alt="README Jokes">
