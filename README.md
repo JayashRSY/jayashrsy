@@ -31,7 +31,7 @@ const jayash = {
   pronouns:    "He / Him",
   location:    "India 🇮🇳",
   role:        "Full Stack Developer",
-  currentlyOn: ["Sleeping 😴", "Building cool stuff 👨‍💻"],
+  currentlyOn: ["Building agency 🚀", "Exploring Cloud & DevOps ☁️"],
   learning:    ["Python 🐍", "Cloud & DevOps ☁️"],
   openTo:      "Web Development Collaborations 🚧",
   funFact:     "Life is meaningless... but keep living it 🏆",
@@ -40,6 +40,18 @@ const jayash = {
 ```
 
 <br clear="right"/>
+
+---
+
+## 🔨 Currently Building
+
+<div align="center">
+
+<a href="https://github.com/JayashRSY/agency">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JayashRSY&repo=agency&theme=radical&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" />
+</a>
+
+</div>
 
 ---
 
@@ -102,6 +114,10 @@ const jayash = {
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayashRSY&layout=compact&hide=html&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=c9d1d9" />
 
+<br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=JayashRSY&theme=radical&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&layout=compact" />
+
 </div>
 
 ---
@@ -120,7 +136,11 @@ const jayash = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JayashRSY&bg_color=0D1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JayashRSY/jayashrsy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JayashRSY/jayashrsy/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JayashRSY/jayashrsy/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
