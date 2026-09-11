@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:a855f7&height=200&section=header&text=Jayash%20R%20Singh%20Yadav&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:a855f7&height=200&section=header&text=Jayash%20Raj%20Singh%20Yadav&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -22,7 +22,9 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="280" src="https://github.com/JayashRSY/jayashrsy/blob/main/gifs/Developer.gif" alt="Developer GIF"/>
+<!-- Electric Name Banner -->
+<img width="100%" src="https://raw.githubusercontent.com/JayashRSY/jayashrsy/main/gifs/Jayash_name_electric.gif" alt="Jayash Electric Banner" />
+<img align="right" width="365" height="274" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Developer GIF"/>
 
 ```typescript
 const jayash = {
@@ -39,8 +41,6 @@ const jayash = {
 };
 ```
 
-<br clear="right"/>
-
 ---
 
 ## 🔨 Currently Building
@@ -48,7 +48,13 @@ const jayash = {
 <div align="center">
 
 <a href="https://github.com/JayashRSY/agency">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JayashRSY&repo=agency&theme=radical&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" />
+  <img src="https://img.shields.io/badge/🔨_agency-View_Repo-a855f7?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/JayashRSY/wealthwings">
+  <img src="https://img.shields.io/badge/💰_wealthwings-View_Repo-a855f7?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/JayashRSY/styleon-web">
+  <img src="https://img.shields.io/badge/👗_styleon--web-View_Repo-a855f7?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -107,16 +113,16 @@ const jayash = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JayashRSY&include_all_commits=true&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&ring_color=a855f7" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=JayashRSY&include_all_commits=true&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&ring_color=a855f7" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=JayashRSY&theme=radical&hide_border=true&background=0D1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" />
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayashRSY&layout=compact&hide=html&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=c9d1d9" />
+<img width="45%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JayashRSY&layout=compact&hide=html&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=c9d1d9" />
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=JayashRSY&theme=radical&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&layout=compact" />
+<img width="45%" src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=JayashRSY&theme=radical&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&layout=compact" />
 
 </div>
 
@@ -126,7 +132,7 @@ const jayash = {
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=JayashRSY&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img width="100%" src="https://github-profile-trophy-nu.vercel.app/?username=JayashRSY&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 </div>
 
@@ -150,7 +156,15 @@ const jayash = {
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=JayashRSY&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" />
+<a href="https://github.com/JayashRSY/agency">
+  <img src="https://img.shields.io/badge/🔨_agency-View_Repo-a855f7?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/JayashRSY/wealthwings">
+  <img src="https://img.shields.io/badge/💰_wealthwings-View_Repo-a855f7?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/JayashRSY/styleon-web">
+  <img src="https://img.shields.io/badge/👗_styleon--web-View_Repo-a855f7?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -199,11 +213,11 @@ const jayash = {
 
 ---
 
-## 😂 Random Dev Meme
+## 😂 Random Dev Joke / Meme
 
 <div align="center">
 
-<img src="https://randommeme-five.vercel.app/" width="400" style="border-radius: 12px;" />
+<img src="https://readme-jokes.vercel.app/api?theme=radical" />
 
 </div>
 
